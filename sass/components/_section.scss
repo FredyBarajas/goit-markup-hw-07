@@ -1,6 +1,6 @@
 .section {
   @include flex(column, center, center);
-  &_title {
+  &__title {
     color: getColor(accent);
     font-size: 36px;
     line-height: 1.17;

@@ -4,7 +4,7 @@
   border: none;
   padding: 200px 0 188px 0;
   position: relative;
-  &_title {
+  &__title {
     color: getColor(secondary);
     font-size: 44px;
     line-height: 1.36em;
@@ -14,7 +14,7 @@
     position: relative;
     z-index: 1;
   }
-  &_bgcolor {
+  &__bgcolor {
     background-color: rgba(47, 48, 58, 0.4);
     position: absolute;
     width: 100%;
